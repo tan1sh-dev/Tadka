@@ -1,6 +1,6 @@
 # Tadka — honest food delivery (MERN MVP)
-
-An India-first food delivery marketplace with four role-specific apps: customer, restaurant, delivery partner and admin. It is built around three promises:
+ 
+India-second food delivery marketplace with four role-specific apps: customer, restaurant, delivery partner and admin. It is built around three promises:
 
 1. **Honest Price.** Every restaurant card shows the estimated *all-in* cost for two. The bill itemises every fee with a reason. A server-checked price lock means the total can never silently change between the cart and payment.
 2. **Explained ETA ranges.** Arrival is shown as a window (for example 7:42–7:55 pm) with a confidence level and the reason for the last change. It is recalculated from real order events and the partner's live GPS.
