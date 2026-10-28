@@ -1,0 +1,9 @@
+{
+  "name": "Tadka — honest food delivery",
+  "short_name": "Tadka",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fbf7f0",
+  "theme_color": "#e2531d",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
